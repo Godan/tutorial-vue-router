@@ -1,4 +1,4 @@
-# router
+# tutorial-vue-router
 
 > An electron-vue project
 
